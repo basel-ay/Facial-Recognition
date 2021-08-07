@@ -1,5 +1,18 @@
 # Facial-Recognition
 
+# **Table of Contents**
+1.Introduction
+
+2.Approach to the problem statement
+
+3.Data loading and Preprocessing
+
+4.Model building
+
+5.Model training
+
+6.Evaluation
+
 # **Introduction**
 
 One of the important ways humans display emotions is through facial expressions. Facial expression recognition is one of the most powerful, natural and immediate means for human beings to communicate their emotions and intensions. Humans can be in some circumstances restricted from showing their emotions, such as hospitalized patients, or due to deficiencies; hence, better recognition of other human emotions will lead to effective communication. Automatic human emotion recognition has received much attention recently with the introduction of IOT and smart environments at hospitals, smart homes and smart cities. Intelligent personal assistants (IPAs), such as Siri, Alexia, Cortana and others, use natural language processing to communicate with humans, but when augmented with emotions, it increases the level of effective communication and human-level intelligence.
@@ -11,3 +24,9 @@ A convolutional neural network was used in our system to obtain improved facial 
 Fig shows the network structure that is used for emotion detection using facial landmarks. This network takes an input image and attempts to predict the output emotion.
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S235291482030201X-gr6.jpg)
+
+
+Dataset : https://www.kaggle.com/apollo2506/facial-recognition-dataset
+
+Notebook on Kaggle : https://www.kaggle.com/basel99/facial-recognition
+
